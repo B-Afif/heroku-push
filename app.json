@@ -1,0 +1,5 @@
+{
+    "name": "Heroku Push",
+    "description": "Test deploy button",
+    "addons": ["heroku-postgresql:hobby-dev"]
+}
